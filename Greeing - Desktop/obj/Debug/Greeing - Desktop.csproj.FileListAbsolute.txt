@@ -1,0 +1,9 @@
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\bin\Debug\Greeing - Desktop.exe.config
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\bin\Debug\Greeing - Desktop.exe
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\bin\Debug\Greeing - Desktop.pdb
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing - Desktop.csprojResolveAssemblyReference.cache
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing___Desktop.frmHome.resources
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing___Desktop.Properties.Resources.resources
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing - Desktop.csproj.GenerateResource.Cache
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing - Desktop.exe
+E:\Programming Camp\Desktop Application Development Training\Greeing - Desktop\Greeing - Desktop\obj\Debug\Greeing - Desktop.pdb
